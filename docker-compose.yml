@@ -21,5 +21,8 @@ services:
       MYSQL_DATABASE: test_db
       MYSQL_USER: devuser
       MYSQL_PASSWORD: devpass
+    volumes:
+      -  ./data:/var/lib/mysql
+      -  ./db/init:/docker-entrypoint-initdb.d
     ports:
       - 6033:3306
