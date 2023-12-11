@@ -1,4 +1,4 @@
-![update](https://github.com/lkimasu/docker_compose/assets/43263676/140e57ce-9bc1-4c6f-a03f-5601d98ba89d)![main](https://github.com/lkimasu/docker_compose/assets/43263676/ac96a1e3-3327-4b19-a0fa-58f3885ca7d4)포트폴리오
+포트폴리오
 ---
 
 프로젝트명: 로컬 개발환경에서 도커 컴포즈를 활용한 PHP 및 Mysql 기반 게시판<br>
@@ -71,17 +71,6 @@ services:
       - 6033:3306
 
 ```
-
-8.시연
-  
-![main](https://github.com/lkimasu/docker_compose/assets/43263676/f94eafb8-145f-4957-bfa6-2e55dac62c6c)
-![insert](https://github.com/lkimasu/docker_compose/assets/43263676/dbbaa096-6bf0-4669-8043-2f6250e92521)
-![select](https://github.com/lkimasu/docker_compose/assets/43263676/1affde9f-97f2-4371-8828-18c48efafdb6)
-![update](https://github.com/lkimasu/docker_compose/assets/43263676/0e9ebfe4-151f-47cc-ab7e-a53840921e63)
-![del](https://github.com/lkimasu/docker_compose/assets/43263676/74b4e9c7-7377-41e9-9575-cc051aff2256)
-  
-
-
 
 
 
