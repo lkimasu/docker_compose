@@ -9,14 +9,17 @@
 
 2.개발 환경
 
-- 로컬 환경: Windows 10
-- 서버 환경: Ubuntu 22.04.3 LTS (virtualBox)
-- 도커 버전: 24.0.7
-- 도커 컴포즈 버전: 2.23.3
+- 로컬 환경: Windows 10<br>
+- 서버 환경: Ubuntu 22.04.3 LTS (virtualBox)<br>
+- 도커 버전: 24.0.7<br>
+- 도커 컴포즈 버전: 2.23.3<br>
 
 3.시스템 아키텍쳐
 
-로컬 개발 환경에서 도커 컴포즈를 사용하여 PHP 애플리케이션과 MySQL 데이터베이스를 통합했습니다. 로컬 개발 툴을 사용하여 개발 및 디버깅을 진행 하였고, 우분투 서버에서 배포를 진행을 해보았습니다.
+![diagram](https://github.com/lkimasu/docker_compose/assets/43263676/b37031a8-8d84-494b-80d0-fb41bc6ba2d1)<br>
+
+
+로컬 개발 환경에서 도커 컴포즈를 사용하여 PHP 애플리케이션과 MySQL 데이터베이스를 통합했습니다.<br> 로컬 개발 툴을 사용하여 개발 및 디버깅을 진행 하였고, 우분투 서버에서 배포를 진행을 해보았습니다.<br>
 
 4.개발 프로세스
 
@@ -70,3 +73,15 @@ services:
 ```
 
 8.시연
+![메인화면](https://github.com/lkimasu/docker_compose/assets/43263676/eb08cc15-d7f3-4578-a468-f6b2962ffcd1)
+  
+![글작성](https://github.com/lkimasu/docker_compose/assets/43263676/251b12c4-18b9-49ee-94df-3cfef1c31e00)
+
+![글보기](https://github.com/lkimasu/docker_compose/assets/43263676/a5004745-f8dd-4138-aaf6-289cc12f0cb2)
+  
+![글수정](https://github.com/lkimasu/docker_compose/assets/43263676/7ad7e46d-597b-46c2-8cf0-3fd315ed9d1c)
+  
+![글삭제](https://github.com/lkimasu/docker_compose/assets/43263676/bd20758f-63d8-4891-ad63-75ef146d193b)
+
+  
+  
